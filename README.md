@@ -35,9 +35,3 @@ To provide HR teams with actionable insights for:
 - Female employees have slightly higher attrition across age brackets.
 - Job roles with lower satisfaction scores show higher turnover.
 
-
-**Created by:** [Your Name]  
-**Email:** [youremail@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile]  
-
-> *This dashboard is part of my data visualization portfolio. Feedback and collaboration are welcome!*
